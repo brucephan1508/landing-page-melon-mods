@@ -46,14 +46,6 @@ const StoreButtons = ({
 				iconClassName:
 					"w-6 h-6 text-gray-600 dark:text-gray-300 group-hover:text-gray-800 dark:group-hover:text-white transition-colors",
 			},
-			{
-				href: storeLinks.google,
-				icon: FaGooglePlay,
-				label: "Get it on",
-				store: "Google Play",
-				iconClassName:
-					"w-5 h-5 text-gray-600 dark:text-gray-300 group-hover:text-gray-800 dark:group-hover:text-white transition-colors",
-			},
 		].map(({ href, icon, label, store, iconClassName }) => (
 			<StoreLinkCard
 				key={store}

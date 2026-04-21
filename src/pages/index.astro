@@ -1,8 +1,4 @@
 ---
-import { faqs } from "@faq/data";
-import FAQ from "@faq/FAQ";
-import { features } from "@features/data";
-import Features from "@features/Features";
 import AppHero from "@hero/AppHero";
 import Layout from "@layouts/Layout.astro";
 import { reviews } from "@reviews/data";
@@ -46,8 +42,6 @@ const pageDescription = `${appData.description} Download now for iOS and Android
       client:load 
     />
     <ScreenshotsSection images={appData.screenshots} client:load />
-    <Features items={features} client:load />
     <Reviews items={reviews} client:visible />
-    <FAQ items={faqs} client:load />
   </main>
 </Layout>

@@ -1,17 +1,8 @@
 # Privacy Policy
 
-**Last updated:** February 1, 2025
+**Effective Date:** April 21, 2026
 
-We value your privacy and are committed to protecting your personal information. This policy explains how we collect, use, and safeguard your data.
-
-## Data Collection
-
-We collect the following types of information:
-
-- **Anonymous usage metrics** to understand how you interact with our app
-- **App performance data** to identify and fix technical issues
-- **Device information** including OS version and device model
-- **Error reports** to improve app stability and reliability
+This Privacy Policy explains how **[Melon Mods For Ragdoll Sandbox]** (“we,” “our,” or “us”) handles information when you use our app.
 
 ## Data Usage
 
@@ -22,46 +13,94 @@ We use the collected data exclusively to:
 - **Enhance features** based on user behavior and feedback
 - **Optimize your experience** with personalized recommendations
 
-## Security Measures
+## Information We Collect
 
-Your data is protected with industry-standard security:
+Depending on how you use the app, we may collect:
 
-- **Encryption protocols** for data transmission and storage
-- **Regular security audits** to identify and address vulnerabilities
-- **Secure storage systems** with access controls and monitoring
-- **Data anonymization** to protect your identity
+- **Device information** such as device model, OS version, language, and app version
+- **Usage data** such as screens viewed, taps, session length, and feature interactions
+- **Diagnostic data** such as crash logs, error reports, and performance data
+- **Support information** if you contact us directly
+- **Third-party data** from analytics or advertising services, if used in the app
 
-## Data Sharing Policy
+## How We Use Information
 
-We respect your privacy and **do not sell your data** to third parties. We may share data only in these limited circumstances:
+We may use collected information to:
 
-- With **essential service providers** who help us operate the app
-- When **legally required** by court order or regulatory authorities
-- When **you explicitly request it** for data portability
+- Provide and maintain the app
+- Improve app content, stability, and usability
+- Understand how users interact with features
+- Respond to support requests
+- Detect and prevent abuse, fraud, or misuse
+- Comply with legal obligations
 
-## User Rights
+## Sharing of Information
 
-You have full control over your data:
+We may share information only with:
 
-- **View your data** at any time through your account settings
-- **Delete your data** permanently from our systems
-- **Stop analytics** by opting out in app preferences
-- **Download your data** in a portable format
-- **Update your information** to keep it accurate
+- **Service providers** that help us run the app, such as analytics or crash reporting tools
+- **Legal authorities** when required by law
+- **Business partners or successors** in the event of a merger, acquisition, or transfer of assets
 
-## Policy Updates
+We do not sell personal information except as required or allowed by applicable law.
 
-We may update this policy from time to time. When we make significant changes:
+## Third-Party Content and Services
 
-- You will receive **in-app notifications**
-- We will send **email updates** to your registered address
-- The **effective date** at the top will be updated
-- You can review the full history of changes in our changelog
+This app may include links, tools, or content related to sandbox games, mods, skins, maps, or other fan-made materials.
 
-## Contact
+- We do not control third-party websites or services
+- Third-party services may collect data under their own privacy policies
+- You should review their terms before using them
 
-If you have questions about this privacy policy:
+## Data Retention
 
-- **Email:** privacy@example.com
-- **Support:** help.example.com
-- **Response time:** Within 48 hours
+We retain collected data only as long as necessary to:
+
+- Provide the app and its features
+- Fulfill the purposes described in this policy
+- Meet legal, security, or operational requirements
+
+When data is no longer needed, we will delete or anonymize it when reasonably possible.
+
+## Your Rights and Choices
+
+Depending on your location, you may have the right to:
+
+- Access your personal data
+- Request correction or deletion of your data
+- Withdraw consent where applicable
+- Object to certain processing activities
+- Request a copy of your data
+
+To exercise these rights, contact us using the details below.
+
+## Children’s Privacy
+
+- This app is not intended for children under 13, or the minimum age required in your country
+- We do not knowingly collect personal data from children
+- If you believe a child has provided us with personal data, contact us and we will take appropriate action
+
+## Security
+
+We take reasonable measures to protect your information, but:
+
+- No method of transmission or storage is completely secure
+- We cannot guarantee absolute security
+- You are responsible for using the app in a safe and appropriate manner
+
+## Changes to This Policy
+
+We may update this Privacy Policy from time to time.
+
+- Updates will be posted with a new effective date
+- Continued use of the app means you accept the updated policy
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, contact us at:
+
+- **Email:** daohoiosdev2026@gmail.com
+
+## Disclaimer
+
+This app is an unofficial app and is not affiliated with, endorsed by, or sponsored by any game developer or publisher unless otherwise stated. All trademarks, names, and assets belong to their respective owners.

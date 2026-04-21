@@ -2,7 +2,7 @@ import { socialLinks } from "@social/data";
 
 export const storeDataConfig = {
 	// Enable App Store fetch for production app metadata.
-	fetchRealData: false,
+	fetchRealData: true,
 	// Numeric Apple App ID without the "id" prefix from App Store URL.
 	appStoreAppId: 6759613745,
 } as const;
